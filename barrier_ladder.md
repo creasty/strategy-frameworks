@@ -1,7 +1,7 @@
 Barrier Ladder
 ==============
 
-**GOAL**: Understands emotional barriers.
+**GOAL**: Understand emotional barriers.
 
 
 Barrier ladder
